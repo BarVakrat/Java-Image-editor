@@ -1,6 +1,6 @@
 package matala02;
 
-public class Tester {
+public class main {
 
 	public static void main(String[] args) {
 			int [][][] img = MyImageIO.readImageFromFile("cat.jpg");
